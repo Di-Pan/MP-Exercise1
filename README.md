@@ -157,3 +157,8 @@ List<Product> products = [
 - Improve state management with a dedicated solution (Provider, Bloc, etc.)
 - Split code into multiple files for better maintainability
 
+## Announcement
+
+- All pictures are from the internet and only used for educational used.
+- This exercise is assigned by our professor and asked to upload it to GitHub.
+
